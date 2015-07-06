@@ -4,7 +4,7 @@
 #
 
 FROM     ubuntu:14.10
-MAINTAINER BrunoVerachten "bruno.verachten@worldline.net"
+MAINTAINER BrunoVerachten "gounthar@gmail.com"
 
 ENV UBUNTU_FRONTEND noninteractive
 
